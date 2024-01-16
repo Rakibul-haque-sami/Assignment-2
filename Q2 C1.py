@@ -6,7 +6,7 @@ image_path = r"C:\Users\Chicken Milk\Desktop\python\Assignment 2\chapter1.jpg"
 image = Image.open(image_path)
 
 # Generate a random number for modifying pixel values
-generated_number = random.randint(1, 10)
+generated_number = random.randint(10, 100)
 
 # Iterate through each pixel and modify it
 for y in range(image.height):
