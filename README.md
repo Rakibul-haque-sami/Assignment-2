@@ -1,5 +1,5 @@
 
-      Assignment 2 
+Assignment 2 
 [ Course Name: Software Now ]
 
 
