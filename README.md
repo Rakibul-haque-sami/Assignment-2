@@ -4,11 +4,13 @@ Course Name: Software Now
 
 
 By. 
-RAKIBUL HAQUE SAMI and 
-SHARIF MUKTADIR HOSSAIN CHOWDHURY .
+RAKIBUL HAQUE SAMI ,
+SHARIF MUKTADIR HOSSAIN CHOWDHURY
 
-Language ==> Python 
-Used to write the code are ==> VS Code and Google Colab
+
+Programming Language type ==> Python. 
+
+Used to write the code are ==> VS Code and Google Colab.
 
 
 VS Code ==> (Visual Studio Code) is a source-code editor developed by Microsoft.
