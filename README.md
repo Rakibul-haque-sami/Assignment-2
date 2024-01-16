@@ -3,9 +3,9 @@ Assignment 2
 Course Name: Software Now 
 
 
-by. 
-RAKIBUL HAQUE SAMI 
-SHARIF MUKTADIR HOSSAIN CHOWDHURY 
+By. 
+RAKIBUL HAQUE SAMI and 
+SHARIF MUKTADIR HOSSAIN CHOWDHURY .
 
 Language ==> Python 
 Used to write the code are ==> VS Code and Google Colab
