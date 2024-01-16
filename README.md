@@ -1,6 +1,6 @@
 '''
 Assignment 2 
-Course Name: Software Now 
+[ Course Name: Software Now ]
 
 
 By. 
@@ -10,7 +10,7 @@ SHARIF MUKTADIR HOSSAIN CHOWDHURY
 
 Programming Language type ==> Python. 
 
-Used to write the code are ==> VS Code and Google Colab.
+Used code editors ==> VS Code and Google Colab.
 
 
 VS Code ==> (Visual Studio Code) is a source-code editor developed by Microsoft.
