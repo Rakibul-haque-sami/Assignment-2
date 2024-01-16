@@ -1,4 +1,4 @@
-'''
+
 Assignment 2 
 [ Course Name: Software Now ]
 
@@ -19,4 +19,3 @@ Colab ==> A hosted Jupyter Notebook service that requires no setup to use and pr
 
 Thank you for visiting us.
 
-'''
